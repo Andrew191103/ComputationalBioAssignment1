@@ -25,6 +25,3 @@ Find the frequency of each RNA codon encoding a given amino acid from a DNA sequ
   - UGG = 2 (Tryptophan)  
   - UAC = 1 (Tyrosine)
 
----
-
-This README describes the steps and results shown in `translate.jpg` and `frequency.jpg`.
