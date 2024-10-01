@@ -1,5 +1,6 @@
 # ComputationalBioAssignment1
 
+
 ## 1. Translation of DNA Sequence to Amino Acid (`translate.jpg`)
 
 ### Task:
@@ -10,6 +11,8 @@ Translate a DNA sequence to mRNA (using 'U' instead of 'T'), then into an amino 
 - **Complement:** `AATGCT`
 - **mRNA:** `AAUGCU`
 - **Amino Acids:** Asn (N) - Ala (A)
+
+![Translation Example](./translate.jpg)
 
 ---
 
@@ -24,4 +27,7 @@ Find the frequency of each RNA codon encoding a given amino acid from a DNA sequ
 - **Codon Counts:**  
   - UGG = 2 (Tryptophan)  
   - UAC = 1 (Tyrosine)
+
+![Frequency Example](./frequency.jpg)
+
 
