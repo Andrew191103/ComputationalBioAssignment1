@@ -1,7 +1,7 @@
 # ComputationalBioAssignment1
 
 
-## 1. Translation of DNA Sequence to Amino Acid (`translate.jpg`)
+## 1. Translation of DNA Sequence to Amino Acid 
 
 ### Task:
 Translate a DNA sequence to mRNA (using 'U' instead of 'T'), then into an amino acid sequence.
@@ -16,7 +16,7 @@ Translate a DNA sequence to mRNA (using 'U' instead of 'T'), then into an amino 
 
 ---
 
-## 2. Frequency of RNA Codons for a Given Amino Acid (`frequency.jpg`)
+## 2. Frequency of RNA Codons for a Given Amino Acid 
 
 ### Task:
 Find the frequency of each RNA codon encoding a given amino acid from a DNA sequence.
